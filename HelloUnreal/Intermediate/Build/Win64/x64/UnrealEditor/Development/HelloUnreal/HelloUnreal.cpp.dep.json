@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\project\\ue5part1\\hellounreal\\hellounreal\\source\\hellounreal\\hellounreal.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\project\\ue5part1\\hellounreal\\hellounreal\\intermediate\\build\\win64\\x64\\hellounrealeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "f:\\project\\ue5part1\\hellounreal\\hellounreal\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\hellounreal\\definitions.hellounreal.h",
+            "f:\\project\\ue5part1\\hellounreal\\hellounreal\\source\\hellounreal\\hellounreal.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
